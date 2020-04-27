@@ -1,0 +1,5 @@
+# Based on ucsc genome browser
+gene,start,end
+pp1a,266,13480
+nsp2,806,2719
+RBD,22517,23185
